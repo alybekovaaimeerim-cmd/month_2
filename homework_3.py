@@ -1,3 +1,4 @@
+"""домашняя работа №3""""
 from abc import ABC, abstractmethod
 
 
